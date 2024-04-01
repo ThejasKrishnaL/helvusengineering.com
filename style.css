@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+nav {
+    margin: 0px 100px;
+    font-size: 20px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.social-media ul{
+    float: right;
+}
+
+.social-media li{
+    display: inline-block;
+    padding-right: 15px;
+    justify-content: center;
+    width: 50px;
+}
