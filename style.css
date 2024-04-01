@@ -18,9 +18,16 @@ nav {
     float: right;
 }
 
-.social-media li{
-    display: inline-block;
-    padding-right: 15px;
-    justify-content: center;
-    width: 50px;
-}
+.navbar-brand img {
+    max-width: 100px;
+  }
+  .navbar-nav .nav-link {
+    padding-right: 1.5rem;
+  }
+  .social-icons {
+    margin-left: auto;
+  }
+  .social-icons a {
+    color: black;
+    margin-left: 10px;
+  }
