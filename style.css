@@ -56,3 +56,19 @@ nav {
 .contact-us h2 {
   text-align: center;
 }
+
+
+
+.logonav{
+  width: 80px;
+  border-radius:  67px;;
+  border-style: dashed;
+  border-width: 2px;
+  border-color:black;
+}
+
+
+.frame {
+  justify-content: center;
+  text-align: center;
+}
