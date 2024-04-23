@@ -23,6 +23,11 @@ nav {
   float: right;
 }
 
+.about-us {
+  padding: 50px 0;
+  text-align: center;
+}
+
 .nav-a:hover {
   color: black;
   transition: all 0.3s ease 0s;
@@ -41,6 +46,7 @@ nav {
 .social-icons {
   margin-left: auto;
 }
+
 body {
   margin: 0;
   padding: 0;
@@ -87,6 +93,7 @@ nav {
   margin-left: 10px;
   text-decoration: none;
 }
+
 body {
   margin: 0;
   padding: 0;
@@ -96,53 +103,6 @@ body {
   font-style: normal;
   text-transform: uppercase;
   letter-spacing: 1.5px;
-}
-
-nav {
-  margin: 1px 100px;
-  font-size: 18px;
-  font-family: "Poppins", sans-serif;
-  font-weight: 500;
-  font-style: normal;
-  text-transform: uppercase;
-  letter-spacing: 1.5px;
-}
-
-.social-media ul {
-  float: right;
-}
-
-.nav-a:hover {
-  color: black;
-  transition: all 0.3s ease 0s;
-}
-
-
-.navbar-brand img {
-  float: left;
-  max-width: 100px;
-}
-
-.navbar-nav .nav-link {
-  padding-right: 1.5rem;
-}
-
-.social-icons {
-  margin-left: auto;
-}
-
-.social-icons a {
-  color: black;
-  margin-left: 10px;
-  text-decoration: none;
-}
-
-body {
-  margin: 0;
-  padding: 0;
-  font-family: "Poppins", sans-serif;
-  font-weight: 500;
-  font-style: normal;
 }
 
 nav {
@@ -230,6 +190,54 @@ nav {
   margin-left: 10px;
   text-decoration: none;
 }
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+nav {
+  margin: 1px 100px;
+  font-size: 18px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+}
+
+.social-media ul {
+  float: right;
+}
+
+.nav-a:hover {
+  color: black;
+  transition: all 0.3s ease 0s;
+}
+
+
+.navbar-brand img {
+  float: left;
+  max-width: 100px;
+}
+
+.navbar-nav .nav-link {
+  padding-right: 1.5rem;
+}
+
+.social-icons {
+  margin-left: auto;
+}
+
+.social-icons a {
+  color: black;
+  margin-left: 10px;
+  text-decoration: none;
+}
+
 .contact-us {
   margin-top: 40px;
 }
@@ -237,6 +245,7 @@ nav {
 .contact-us h2 {
   text-align: center;
 }
+
 .complog {
   float: left;
 }
@@ -252,6 +261,7 @@ nav {
 .about-us {
   margin-top: 80px;
 }
+
 .social-icons a {
   color: black;
   margin-left: 10px;
@@ -269,7 +279,7 @@ nav {
 
 
 
-.logonav{
+.logonav {
   width: 80px;
   height: auto;
 }
